@@ -1,0 +1,6 @@
+- [ ] U.S. Constitution, Article I, section 8, clause 9; Amendment V
+- [ ] CB 30-33
+- [ ] CB 37-41
+- [ ] CB 69-72
+- [ ] CB 78-82
+- [ ] Problem 2

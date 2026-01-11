@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Fedcourts/01-12 Readings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "94ee0babacd5e6d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "01-12 Readings"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Fedcourts/01-12 Readings.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 01-12 Readings"
             }
           },
           {
@@ -209,9 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94ee0babacd5e6d0",
+  "active": "f6054fd52d609b5d",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Untitled.md"
+    "Fedcourts/01-13 Readings.md",
+    "Fedcourts/01-12 Readings.md",
+    "Coverage.md",
+    "Fedcourts",
+    "Notes on Caslaw.md"
   ]
 }
