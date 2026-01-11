@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "33da3207ccaa5b21",
@@ -194,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6054fd52d609b5d",
+  "active": "ab52b3dc67ed9fa8",
   "lastOpenFiles": [
     "Fedcourts/01-13 Readings.md",
     "Fedcourts/01-12 Readings.md",
