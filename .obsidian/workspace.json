@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fedcourts/01-12 Readings.md",
+                "file": "Fedcourts/01-13 Readings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-12 Readings"
+              "title": "01-13 Readings"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "33da3207ccaa5b21",
@@ -197,6 +196,8 @@
   },
   "active": "ab52b3dc67ed9fa8",
   "lastOpenFiles": [
+    "Fedcourts/Final Report Presidential Comm’n on the Supreme Court_excerpt.pdf",
+    "Fedcourts/01-14 Readings.md",
     "Fedcourts/01-13 Readings.md",
     "Fedcourts/01-12 Readings.md",
     "Coverage.md",

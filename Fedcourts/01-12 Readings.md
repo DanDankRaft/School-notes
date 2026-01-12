@@ -3,8 +3,6 @@
 - [x] CB 24-28
 - [x] CB 28, Note 1
 - [x] Problem 1
-
-TESTING TESTING 123
 # Constitution, Articles III and VI
 * Federal courts only have jurisdiction as authorized by statute, and only insofar as those statutes respect limitations of Article III
 * Most important statute - federal question; 28 USC 1331
