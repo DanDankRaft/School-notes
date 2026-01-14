@@ -3,7 +3,7 @@
 - [x] CB 37-41
 - [x] CB 69-72
 - [x] CB 78-82
-- [ ] Problem 2
+- [x] Problem 2
 
 # Review from Last Class
 - There are two ways to read *Ex Parte McCardle*
