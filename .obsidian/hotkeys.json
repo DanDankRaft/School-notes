@@ -7,5 +7,14 @@
       ],
       "key": "F"
     }
+  ],
+  "unicode-search:insert-00a7": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "4"
+    }
   ]
 }
