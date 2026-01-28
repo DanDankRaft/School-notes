@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1c02d022f59d7ea8",
+        "id": "26b1c31a4da2cb60",
         "type": "tabs",
         "children": [
           {
-            "id": "27be300618d6c1cb",
+            "id": "dae7ec3e6f9a58a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TexGovt/01-15 Intro Lecture.md",
+                "file": "Equality/01-21 Lecture notes - Equal Opportunity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-15 Intro Lecture"
-            }
-          },
-          {
-            "id": "25a8e04f822a4275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equality/01-14 Lecture Notes - Introduction!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-14 Lecture Notes - Introduction!"
+              "title": "01-21 Lecture notes - Equal Opportunity"
             }
           }
         ]
@@ -208,26 +194,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27be300618d6c1cb",
+  "active": "dae7ec3e6f9a58a2",
   "lastOpenFiles": [
+    "Fedcourts/01-28 Taxpayer Standing.md",
+    "Fedcourts/01-27 State and Legislature Standing.md",
+    "Fedcourts/02-02.md",
+    "Fedcourts/Supplement.pdf",
+    "TexGovt/01-15 Intro Lecture.md",
+    "Fedcourts/01-21 Standing and Causation.md",
+    "Fedcourts/01-20 Article III Standing and Injury in Fact.md",
+    "Fedcourts/01-14 SCOTUS Reform.md",
+    "Equality/01-21 readings/bottlenecks.pdf",
+    "Equality/01-21 readings/TOJ.pdf",
+    "Equality/01-21 readings",
     "Equality/01-21 Lecture notes - Equal Opportunity.md",
     "Equality/01-14 Lecture Notes - Introduction!.md",
     "AI Policy/01-21 Notes.md",
     "AI Policy/01-20 Notes.md",
-    "Fedcourts/01-20 Article III Standing and Injury in Fact.md",
-    "Fedcourts/01-21 Standing and Causation.md",
-    "Fedcourts/01-12 McCardle, SCOTUS Jurisdiction Stripping.md",
-    "Fedcourts/01-14 SCOTUS Reform.md",
-    "Equality/01-21 readings/bottlenecks.pdf",
     "AI Policy/01-12 Notes.md",
-    "Equality/01-21 readings/TOJ.pdf",
-    "Equality/01-21 readings",
-    "Fedcourts/01-13 Sheldon, Webster, Klein principle.md",
-    "TexGovt/01-15 Intro Lecture.md",
+    "AI Policy",
+    "TexGovt/01-15 Readings.md",
     "TexGovt",
+    "Fedcourts/01-13 Sheldon, Webster, Klein principle.md",
+    "Fedcourts/01-14 Readings.md",
     "Equality",
     "Fedcourts/Final Report Presidential Comm’n on the Supreme Court_excerpt.pdf",
-    "AI Policy",
+    "Fedcourts/01-12 McCardle, SCOTUS Jurisdiction Stripping.md",
+    "AIPolicy/01-12 Notes.md",
+    "AIPolicy",
     "Fedcourts/01-13 Readings.md",
     "Fedcourts/01-12 Readings.md",
     "Coverage.md",
