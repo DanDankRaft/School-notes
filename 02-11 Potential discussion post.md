@@ -1,0 +1,17 @@
+
+I was not satisfied with Dworkin's discussion of option luck. Here's why:
+
+**Successful gambles erode equality of resources**
+Successful gambles are the mechanism by which inequality of resources manifests in the real world. When individuals take risky, but ultimately successful business decisions, they accumulate more resources and grow their business ventures. This means that in subsequent auctioning, they will be more capable of acquiring any good than their peers. Dworkin says that's fine - it's how the auction system provides individuals with the agency and responsibility that makes it worthwhile. But I think that it undermines the fundamental benefits of the auction system.
+
+For one, it causes subsequent auctions to fail the envy test. Since the wealthy businessman comes into subsequent auctions with more resources than his peers, he is able to out-bid others on resources, even when the others' desire to own those resources is stronger than his own. As a result, some of the businessman's peers will start to envy his bundle of resources.
+
+It also undermines personal responsibility as a whole. Dworkin critiques equality of welfare for its inability to hold those with expensive tastes accountable for how these tastes impact others. But when a businessman's gamble pays off, and he starts out-compete his peers in auctions for goods, he receives less punishment for his expensive taste. Moreover, his peers are thus *punished* - not for their own tastes or actions - but for the businessman's success. It erodes everyone's personal responsibility, but it also erodes equal respect - because it creates a system in which some people are held less responsible for their preferences than others.
+
+
+**Inequality exists across time**
+Finally, I also think that Dworkin misses that inequality has a temporal dimension. I do not just compare my bundle of goods to that of my contemporaries; I also compare it to those of past generations.
+
+The gambles of individuals in the past directly impact the auctions of the future. One entrepreneur might take a successful gamble on a new production method that vastly increases the supply of a certain good. Another might take gambles that allow him to establish a monopoly on the production of a certain good, and thus constrain its supply. Dworkin contends that auctions are non-arbitrary because everyone plays a roughly equal role in shaping their outcome. The presence of past generations of auctioneers who passed away changes that. They have a direct impact on the distribution of resources in future auctions, but they bear no consequences for the role they played.
+
+Is it fair to auctioneers of the future that they are not auctioning on the same playing field as the auctioneers of past generations? Is it fair to the auctioneers of the future that they might have more or less access to goods because of the behavior of the auctioneers of the past? I'm not asking this merely to be philosophical - I think that these kinds of questions are directly fueling the politics of resentment that younger generations bear towards baby boomers. I also think that, intuitively, we care about this kind of temporal inequality of resources: *that's what the U-graphs measure*.
