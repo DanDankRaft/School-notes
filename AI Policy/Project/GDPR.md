@@ -30,6 +30,8 @@
 > 8. ‘processor’ means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller;
 > 9. ‘recipient’ means a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not. 2However, public authorities which may receive personal data in the framework of a particular inquiry in accordance with Union or Member State law shall not be regarded as recipients; the processing of those data by those public authorities shall be in compliance with the applicable data protection rules according to the purposes of the processing;
 
+(11) "consent" of the data subject means any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her;
+
 
 
 - Recital 23: **Applicable to processors not established in the Union if data subjects within the Union are targeted**
@@ -53,16 +55,16 @@
 - **The controller is responsible for compliance - not the processor**
 ## Article 6: Lawfulness of processing
 > 1. Processing shall be lawful only if and to the extent that at least one of the following applies:
-> 	1. the data subject has given consent to the processing of his or her personal data for one or more specific purposes;
+> 	1. **the data subject has given consent to the processing of his or her personal data for one or more specific purposes**;
 >     2. processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;
 >     3. processing is necessary for compliance with a legal obligation to which the controller is subject;
 >     4. processing is necessary in order to protect the vital interests of the data subject or of another natural person;
 >     5. processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;
->     6. processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.
+>     6. **processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.**
 > 2. Member States may maintain or introduce more specific provisions to adapt the application of the rules of this Regulation ....
 
 
-> 4. Where the processing for a purpose other than that for which the personal data have been collected is not based on the data subject’s consent or on a Union or Member State law which constitutes a necessary and proportionate measure in a democratic society to safeguard the objectives referred to in [Article 23](https://gdpr.eu/article-23-restrictions)(1), the controller shall, in order to ascertain whether processing for another purpose is compatible with the purpose for which the personal data are initially collected, take into account, inter alia:
+> 3. Where the processing for a purpose other than that for which the personal data have been collected is not based on the data subject’s consent or on a Union or Member State law which constitutes a necessary and proportionate measure in a democratic society to safeguard the objectives referred to in [Article 23](https://gdpr.eu/article-23-restrictions)(1), the controller shall, in order to ascertain whether processing for another purpose is compatible with the purpose for which the personal data are initially collected, take into account, inter alia:
 > 	1. any link between the purposes for which the personal data have been collected and the purposes of the intended further processing;
 > 	2. the context in which the personal data have been collected, in particular regarding the relationship between data subjects and the controller;
 > 	3. the nature of the personal data, in particular whether special categories of personal data are processed, pursuant to [Article 9](https://gdpr.eu/article-9-processing-special-categories-of-personal-data-prohibited), or whether personal data related to criminal convictions and offences are processed, pursuant to [Article 10](https://gdpr.eu/article-10-personal-data-relating-to-criminal-convictions-and-offences);
@@ -88,24 +90,95 @@
 1. GDPR never obliges processor to maintain identifying additional information, when is own purpose for processing data does not require it to do so.
 2. One exception: when a data subject voluntarily provides such information to the controller, for purposes of exercising his or her GDPR rights.
 
+# Chapter 3: Rights of the data subject
+## Article 15: Right of access by the data subject
+- The data subject shall have the right to obtain all kinds of information about how where their data is and how its being processed.
+
+## Article 16: Right to recitification
+> The data subject shall have the right to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her. **Taking into account the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement**
+
+- How does that implicate AI?
+
+## Article 17: right to be forgotten
+1. data subjects have right to be forgotten, to be acted upon **by the controller**
+2. If the controller made the personal data public, then "taking account of available technology and cost of implementation," they must take reasonable steps to inform other controllers which are processing the data that the subject has requested erasure.
+	- This is something where making sure that model trainers under a federated approach are merely processors makes a big difference!!
+
+## Article 18: Right to restriction of processing
+- similar to right to be forgotten, but now its just that the data cannot be processed instead of erased entirely.
+- Only granted in specific circumstances.
+## Article 21: Right to object
+6. you have a right to object even in scientific, historical, or statistical purposes, *unless the task is carried out for reasons of public interest*.
+> [!important] What counts as "statistical purposes?" what counts as "public interest?" Is an open source model being trained in the "public interest?"
+
+# Chapter 4: Controller and Processor
+## Article 24: Responsibility of the Controller
+1. the controller shall implement appropriate technical and organisational measures to ensure and to be able to demonstrate that processing is performed in accordance with this Regulation.
+(3) you can establish this more easily by adhearing to a member-state set code of conduct (Article 40) or certification mechanism (Article 42)
+> [!important] paragraph 1 means that the controller needs to be very aware of the *what, why, how* someone is training on their data. Paragraph 3 opens the door for groups like AISIs to make things easier for AI model trainers.
+
+## Article 25: Data Protection by design and default
+1. Controllers are already required to pseudoanonymize data to the "state of the art"
+2. Controller cannot give you more data than is necessary for the specific purpose for which you're being trained.
+
+## Article 26: Joint Controllers
+3. When two or more controllers jointly determine the purpose and means of processing .... the data subject may exercise his or her rights under this Regulation in respect of and against each of the controllers.
+## Article 28: Processor
+3. PROCESSING BY A PROCESSOR SHALL BE GOVERNED BY A CONTRACT OR OTHER LEGAL ACT UNDER UNION OR MEMBER STATE LAW.
+	(a) processes the personal data only on documented instructions from the controller
+> [!note] this may be easy to bypass by saying "the processor may request to process data in an additional manner not specified in this contract. If that manner is in accordance with the specified purposes for processing and the controller approves of it, then the processor is thereby instructed to perform this processing."
+
+(5) Adherence to an approved code of conduct or certification can demonstrate compliance
+
+# Article 29: Processing under the authority of the controller or processor
+> The processor and any person acting under the authority of the controller or of the processor, who has access to personal data, shall not process those data except on instructions from the controller, unless required to do so by Union or Member State law.
+- But under federated learning, we are no longer a processor "who has access to personal data!!"
+
+## Article 32: Security of Processing
+1. The controller **and the processor** shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including:
+	1. pseudonymisation and encryption
+	2. a process for regularly testing, assessing, and evaluating the effectiveness of technical and organizational measures for ensuring the security of processing.
+> [!note] Interoperability with AI act
+> This whole framework of "use security in accordance with level of risk" sounds similar to AI Act requirements.
+> Also: there's a worry that pseudonymisation is not good enough. But EU ruling like Schrems II might say it's required? Look into that.
+
+# Chapter 5: Transfers of Personal Data to Third Countries or International Organizations
+
+## Article 44: General principle for transfers
+- We don't want any of the protections in the GDPR to be undermined just bc you transfer your data to a third country.
+
+## Article 45: Transfers on the basis of an adequacy decision
+- The EU Commission can decide whether a country's privacy protections are adequate for a transfer.
+- On the US:
+	- 2023 agreement with EU set up the Data Privacy Framework (DPF).
+	- the U.S. Department of Commerce can certify individual companies for having internal policies that make them compliant with the GDPR. Once they are officially certified, they can receive data from the EU.
+## Article 46: Transfers subject to appropriate safeguards
+- If the processor is in a country with inadequate safeguards, you can still perform a transfer as long as there's something that makes them legally bound to the GDPR. This can include corporate rules or a contract.
+## Article 49: Derogations for specific situations
+- If you can't find an article 45 or 46 basis for the transfer, you may still go ahead im some very limited and specific contexts. Most of them require the direct benefit and/or consent of the data subject.
+
+# Chapter 9: Provisions relating to specific processing situations
+## Article 85: Processing and freedom of expression and information
+- Individual member states may create carve-outs to the GDPR in order to protect journalistic, academic, artistic, or literary expression.
+## Article 89: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes.
+- 
 
 - Remaining GDPR articles to read:
 - Chapter 3: Rights of the data subject
-	- [ ] Article 15: right of access by the data subject
-	- [ ] Article 16: right to recitification
-	- [ ] Article 17: right to erasure ('right to be forgotten')
-	- [ ] Article 18: right to restriction of processing
-	- [ ] Article 21: right to object
+	- [x] Article 15: right of access by the data subject
+	- [x] Article 16: right to recitification
+	- [x] Article 17: right to erasure ('right to be forgotten')
+	- [x] Article 18: right to restriction of processing
+	- [x] Article 21: right to object
 - Chapter 4: Controller and processor
-	- [ ] Article 24: Responsibility of the controller
-	- [ ] Article 25: Data protection by design and by default
-	- [ ] Article 26: Joint controllers
-	- [ ] **Article 28: Processor**
-	- [ ] **Article 29: Processing under the authority of the controller or processor**
-	- [ ] Article 32: Security of processing
-	- [ ] Article 40: Codes of conduct; think about how that relates to allowing new technologies such as federated learning to be applied
+	- [x] Article 24: Responsibility of the controller
+	- [x] Article 25: Data protection by design and by default
+	- [x] Article 26: Joint controllers
+	- [x] **Article 28: Processor**
+	- [x] **Article 29: Processing under the authority of the controller or processor**
+	- [x] Article 32: Security of processing
 - Chapter 5: Transfers of personal data to third countries or international organizations.
-	- [ ] ALL CHAPTERS
+	- [x] ALL CHAPTERS
 - Chapter 9: Provisions related to specific processing situations
 	- [ ] Article 85: Processing and freedom of expression and information
 	- [ ] Article 89: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes.
