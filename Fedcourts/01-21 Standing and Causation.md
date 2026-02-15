@@ -90,6 +90,7 @@
 > [!info] It's not about whether the plaintiff  went out of their way to get injured, it's about whether an injury was actually inflicted on them by the defendant!
 
 ---
+# Deprivation of Statutory Right and Intangible Injuries
 # Spokeo, Inc. v. Robins
 578 U.S. 330 (2016)
 - **Background:** Spokeo is a background search website that shows people's personal information. It had wrong information about Robins that made it harder for him to get a job (he appeared to be overqualified for all of the positions he wanted). He sued under the Fair Credit Reporting Act of 1970.

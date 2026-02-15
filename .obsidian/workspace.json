@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "fe31cc46dcc060f3",
+        "id": "c02890df06115ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "fd9d06f249524b4e",
+            "id": "ba624120c4fa6962",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Policy/Project/GDPR.md",
+                "file": "Equality/01-28 Equality of Welfare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDPR"
+              "title": "01-28 Equality of Welfare"
+            }
+          },
+          {
+            "id": "60e47dfa9a1a71ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TexGovt/02-05 The Legislative Process & The Governor During the Legislative Session.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-05 The Legislative Process & The Governor During the Legislative Session"
+            }
+          },
+          {
+            "id": "f847094896c5a887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TexGovt/01-15 Intro Lecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-15 Intro Lecture"
             }
           }
         ]
@@ -53,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TransUnion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,43 +222,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd9d06f249524b4e",
+  "active": "ba624120c4fa6962",
   "lastOpenFiles": [
-    "AI Policy/Project/TODO for now.md",
-    "AI Policy/Project/GDPR.md",
-    "Fedcourts/02-04 Ripeness, and Mootness.md",
-    "Fedcourts/02-09 The Emergency Docket and Nationwide Injunctions.md",
-    "Fedcourts/02-13 Abstention.md",
-    "AI Policy/Project",
-    "Fedcourts/02-11 SCOTUS Review of State Court Decisions.md",
-    "Equality/02-11 readings/Dworkin what is eqaulity 2.pdf",
-    "Equality/02-11 readings/ElizabethAnderson.pdf",
-    "Equality/02-11 readings",
-    "Equality/02-",
-    "Equality/New folder",
-    "Fedcourts/02-10 Political Question Doctrine.md",
-    "Fedcourts/Final Report Pres. Comm’n_Emergency Orders.pdf",
-    "Fedcourts/Report Pres. Comm’n on the Supreme Court_excerpt.pdf",
-    "Fedcourts/Pres. Report Comm’n_Emergency Orders.pdf",
-    "Fedcourts/Rucho v. Common Cause.pdf",
+    "TexGovt/02-12 The Legislative Process & The Veto.md",
+    "TexGovt/01-15 Intro Lecture.md",
     "TexGovt/02-05 The Legislative Process & The Governor During the Legislative Session.md",
     "TexGovt/01-29 The Legislative Process & Lieutenant Governor.md",
-    "Equality/02-04 Equality of Capabilities.md",
-    "Equality/01-28 Equality of Welfare.md",
-    "Equality/Untitled.md",
-    "Fedcourts/02-03 Third Party Standing.md",
-    "Fedcourts/02-02 Taxpayer Standing.md",
+    "Equality/02-11 Function of Redistribution.md",
+    "Equality/02-11 readings/ElizabethAnderson.pdf",
+    "Equality/02-11 readings/Dworkin what is eqaulity 2.pdf",
+    "Equality/01-28 readings/what is eqaulity 2.pdf",
+    "AI Policy/02-11 Guest Speaker Kellee Wicker.md",
+    "AI Policy/02-05 Meeting with Lacey.md",
     "Fedcourts/01-21 Standing and Causation.md",
+    "Equality/01-28 readings/what is eqaulity1.pdf",
+    "Fedcourts/01-28 Government Standing.md",
+    "Fedcourts/02-11 SCOTUS Review of State Court Decisions.md",
+    "Equality/01-28 Equality of Welfare.md",
+    "Equality/02-4 readings/nussbaum Capabilities.pdf",
+    "Equality/02-4 readings/cohen equality of what.pdf",
+    "Equality/02-4 readings/Sen Equality of What.pdf",
+    "Equality/02-4 readings",
+    "02-11 Potential discussion post.md",
+    "Fedcourts/02-10 Political Question Doctrine.md",
+    "Fedcourts/02-02 Taxpayer Standing.md",
+    "Fedcourts/02-09 The Emergency Docket and Nationwide Injunctions.md",
+    "AI Policy/01-28 Notes.md",
+    "AI Policy/02-09 Notes - Guest Speaker i think.md",
+    "Fedcourts/Pres. Report Comm’n_Emergency Orders.pdf",
+    "Fedcourts/02-04 Ripeness, and Mootness.md",
+    "AI Policy/Project/GDPR.md",
+    "AI Policy/Project/TODO for now.md",
+    "Fedcourts/02-13 Abstention.md",
+    "AI Policy/Project",
+    "Equality/02-04 Equality of Capabilities.md",
+    "Fedcourts/02-03 Third Party Standing.md",
     "Fedcourts/01-20 Article III Standing and Injury in Fact.md",
     "Equality/01-14 Lecture Notes - Introduction.md",
-    "Equality/01-21 Lecture notes - Equal Opportunity.md",
-    "AI Policy/01-28 Notes.md",
-    "Fedcourts/01-28 Government Standing.md",
-    "TexGovt/01-15 Intro Lecture.md",
-    "AI Policy/01-21 Notes.md",
-    "AI Policy/01-20 Notes.md",
-    "Fedcourts/01-12 McCardle, SCOTUS Jurisdiction Stripping.md",
-    "Fedcourts/01-14 SCOTUS Reform.md",
-    "AI Policy/01-12 Notes.md"
+    "Equality/01-21 Lecture notes - Equal Opportunity.md"
   ]
 }
