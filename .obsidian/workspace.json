@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b0432c7793884b84",
+        "id": "c435b302aa2eebb2",
         "type": "tabs",
         "children": [
           {
-            "id": "5aaff90f7d146fbe",
+            "id": "0711fc5013e3556b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Fedcourts/02-16 Abstention continued.md",
-                "mode": "source",
-                "source": false
+                "file": "Equality/02-18 readings/ParfitEqualityorPriority.pdf"
               },
-              "icon": "lucide-file",
-              "title": "02-16 Abstention continued"
+              "icon": "lucide-file-text",
+              "title": "ParfitEqualityorPriority"
             }
           }
         ]
@@ -194,18 +192,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6054fd52d609b5d",
+  "active": "29eb63a08ce16352",
   "lastOpenFiles": [
+    "Fedcourts/02-18 Congressional Abrogation Under the Fourteenth Amendment.md",
+    "Equality/01-14 Lecture Notes - Introduction.md",
+    "Equality/01-21 Lecture notes - Equal Opportunity.md",
+    "Equality/02-18 readings/FrankfurtEqualityMoralIdeal.pdf",
+    "Fedcourts/02-17 State Sovereign Immunity.md",
+    "Fedcourts/02-11 SCOTUS Review of State Court Decisions.md",
+    "Fedcourts/02-16 Abstention continued.md",
+    "Fedcourts/02-13 Abstention.md",
     "TexGovt/02-12 The Legislative Process & The Veto.md",
     "Equality/02-11 Function of Redistribution.md",
     "AI Policy/02-11 Guest Speaker Kellee Wicker.md",
     "AI Policy/02-09 Notes - Guest Speaker i think.md",
-    "Fedcourts/02-18 Congressional Abrogation Under the Fourteenth Amendment.md",
-    "Fedcourts/02-17 State Sovereign Immunity.md",
-    "Fedcourts/02-16 Abstention continued.md",
-    "Fedcourts/02-13 Abstention.md",
     "AI Policy/Project/02-12 Meeting with Lacey.md",
-    "Equality/02-18 readings/FrankfurtEqualityMoralIdeal.pdf",
     "Equality/02-18 readings/ParfitEqualityorPriority.pdf",
     "Equality/02-18 readings/rawls.pdf",
     "Equality/02-18 readings",
@@ -217,7 +218,6 @@
     "Fedcourts/02-04 Ripeness, and Mootness.md",
     "Fedcourts/02-09 The Emergency Docket and Nationwide Injunctions.md",
     "AI Policy/Project",
-    "Fedcourts/02-11 SCOTUS Review of State Court Decisions.md",
     "Equality/02-11 readings/Dworkin what is eqaulity 2.pdf",
     "Equality/02-11 readings/ElizabethAnderson.pdf",
     "Equality/02-11 readings",
@@ -229,8 +229,6 @@
     "Equality/01-28 Equality of Welfare.md",
     "Equality/Untitled.md",
     "Fedcourts/02-03 Third Party Standing.md",
-    "Fedcourts/02-02 Taxpayer Standing.md",
-    "Fedcourts/01-21 Standing and Causation.md",
-    "Fedcourts/01-20 Article III Standing and Injury in Fact.md"
+    "Fedcourts/02-02 Taxpayer Standing.md"
   ]
 }
