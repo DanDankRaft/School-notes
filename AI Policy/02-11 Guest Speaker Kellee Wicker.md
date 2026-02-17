@@ -76,3 +76,5 @@
 - Money and national security weren't big concerns back in 2023, when these conversations started. But they're much bigger now.
 
 - The agenda for AI discourse plays a big role in influencing what AI policy is being made.
+
+- ALEC - American Legislative Exchange Council - developer of right-wing model legislation for state legislatures.

@@ -32,7 +32,7 @@
 - No SCOTUS appellate jurisdiction if there's a separate adequate and independent state law grounds.
 	- **Adequate** - is it a real rule of state law.
 		- Created in response to reconstruction-era cases where southern courts suddenly got really nitpicky about procedural state law with black plaintiffs.
-	- **Independent** -
+	- **Independent** - the question of federal law would not have changed the outcome of the case.
 - Purpose:
 	- To avoid advisory opinions. If they're deciding on a case where the outcome depends on state law and not federal law, this opinion isn't binding and maybe transgresses Article III.
 		- *Can* SCOTUS decision make a difference in how the case comes out. But not *will* SCOTUS decision make a difference.
