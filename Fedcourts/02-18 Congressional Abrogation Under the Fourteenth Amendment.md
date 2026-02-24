@@ -33,7 +33,7 @@
 
 - There's nothing in the constitution that creates federal sovereign immunity
 ---
-# Abrogation Under Amendment XIV § 5
+# Abrogation Under Amendment 14 § 5
 
 ## Prologue: *City of Boerne*
 - Historically, the court read Congress's power through §5 very broadly, this changed with *City of Boerne*:
@@ -87,12 +87,8 @@
 	- The injury - a violation of 14th Amendment, §1.
 	- The means - abrogation of sovereign immunity.
 
-- Application here:
-	- The injury - taking time off when you're sick or injured sounds like disability discrimination! This only gets rational basis, and there's insufficient evidence to back that up.
-
-- Application here:
-	- Congress adopted FMLA to address sex discrimination wrt unpaid leave.
-	- But there is no evidence (facial or otherwise) of a pattern of sex discrimination wrt self-care leave in the Congressional record, and there's no explanation of how this provision is meant to address such sex discrimination.
+- **Application here:**
+	- **The injury - taking time off when you're sick or injured sounds like disability discrimination! This only gets rational basis, and there's insufficient evidence to back that up.**
 
 ## Dissent
 - The injury addressed by the FMLA is sex discrimination - there's no reason to say that the self-care provision is somehow completely unrelated to this purpose.
@@ -104,13 +100,13 @@
 	- Identify provision (Equal Protection)
 	- Whether Congress had evidence of a pattern of constitutional violations from the States (yes)
 	- Congruence and Proportionality (yes)
-- Useful tool for congruence and proportionality argument: the provision is very limited and modest; doesn't single out any gender, race, etc.
+- Useful tool for congruence and proportionality argument?: the provision is very limited and modest; doesn't single out any gender, race, etc.
 
 
 ---
 # Identifying the Constitutional Right
 
-## Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank
+## Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank (*Florida Prepaid*)
 527 US 627 (1999)
 - Background: plaintiff claimed patent infringement against a state agency. Sued under the Patent Remedy Act.
 - Holding: abrogation not OK for patent rights.
