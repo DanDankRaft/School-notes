@@ -1,0 +1,11 @@
+- Outsourced Computation - one party owns the data. It wants a second party to perform a computation on that data. So it:
+	- Encrypts the data
+	- sends it to the second party
+	- Asks it 
+- To allow outsourced computation, you absolutely have to enable computation on encrypted data.
+- Homomorphic Encryption
+	- Partially homomorphic encryption - only certain operations are possible.
+	- Fully homomorphic encryption - all mathematical operations are possible (addition, subtraction, multiplication, division, ability to represent zero and one.)
+
+- MPC is an alternative to outsourced computation.
+	- MPC requires more computational resources

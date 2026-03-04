@@ -1,0 +1,1 @@
+- Where does it slot? Input and output privacy.

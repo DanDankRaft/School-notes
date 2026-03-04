@@ -49,7 +49,7 @@
 	- Output privacy and verification - responsibility of processor, in some cases of the controller.
 - At each of those stages, there are different PETs that help with those steps.
 
-- Executive Director Andrew Tr - there's an atypical use of differential privacy where if the output of the analysis it's differentially private it will be statistically significantly in a way that's not real.
+- Executive Director Andrew Trask - there's an atypical use of differential privacy where if the output of the analysis it's differentially private it will be statistically significant in a way that's not real.
 
 
 - In the US - there was a case where they released pseudoanonymized data and they reconstructed it.

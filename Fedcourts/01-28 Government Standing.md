@@ -94,6 +94,7 @@ Friday, 02/13 at 1:05 PM
 - The majority is too concerned with applying federal separation-of-powers principles to a state government over which they lack jurisdiction.
 ---
 # State Government Standing
+# Massachussets v. EPA
 - ***Massachussets v. EPA*** (2007) - State sued over a law that would've allowed more emissions from new vehicles and thus contributed to coastal erosion. Holding: it has standing over this law: state is a coastal landowner, and has a "quasi-sovereign interest" so it could protect on behalf of its residents.
 	- PROBLEM - new cars are only one of many factors that emit CO2 and cause coastline erosion.
 	- **COURT RELAXED CAUSATION AND REDRESSABILITY FOR STATES:**
