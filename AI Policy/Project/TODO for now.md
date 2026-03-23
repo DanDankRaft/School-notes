@@ -58,3 +58,9 @@
 	 - For leaking data: operate sandbox offline, or within a network whitelist.
  - Solution 2: contracts. We can include contractual promises in all of these things.
 	 - Problem: how do we ensure that the legal agreement includes these terms? How do we ensure that each party can find out when the other violates it?
+
+
+
+
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62022CJ0604

@@ -12,7 +12,7 @@
 - French privacy regulator has a privacy day in June, taking paper submissions. Peter wrote up a paper about this and they used the GDPR
 	- There's a group of Spanish hospitals they're using federated learning with!
 
-- If it's not too much of a scope creep, include stuff about sensitive data.
+- If it's not too much of a scope creep, include stuff about **sensitive data**. (Article 9)
 
 - Next steps:
 	- Send email with questions

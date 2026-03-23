@@ -96,4 +96,3 @@
 - *303 Creative* - the state cannot force you to have expressive conduct that you disagree with.
 
 > [!info] Follow current events. Today's news story is tomorrow's political issue.
-

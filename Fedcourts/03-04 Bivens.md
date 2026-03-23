@@ -53,6 +53,7 @@
 - *We have to provide Bivens some sort of present relief*
 ## Dissent (J. Black)
 - The only entity that can determine who can sue is Congress, and Congress hasn't said anything at all.
+
 # Davis v. Passman
 442 US 228 (1979)
 - Title VII exempted discrimination against congressional employees.
