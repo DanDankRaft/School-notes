@@ -17,7 +17,7 @@
 
 - This doctrine became a pain in the butt during the civil rights movement.
 
-- *Younger* abstention - comes up when there's a pending state criminal prosecution or civil enforcement proceeding. federal court may NOT enjoin these.
+- *Younger* abstention - **comes up when there's a pending state criminal prosecution or civil enforcement proceeding**. federal court may NOT enjoin these.
 	- Applies even if federal court suit filed first, as long as its still in early stages (*Hicks*)
 	- There's an an *anti-injunciton act*. Why didn't the court apply that? It has an exception: a federal court may not enjoin a state proceeding if Congress establishes some exception.
 		- One such exception: 42 USC 1983.
