@@ -4,6 +4,8 @@
 	*White v. Woodall*
 - [ ] Problem 32
 
+# Review from Last Class
+- We covered Customary International Law.
 # Williams v. Taylor
 529 U.S. 362 (2000)
 
