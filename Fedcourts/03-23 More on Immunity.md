@@ -48,7 +48,6 @@
 	- Applies to a variety of contexts. The logic applies to everything. Not just 1983!!
 - Why would you sue a local official in their official capacity vs suing the local government itself?
 	- Doesn't matter at all! Just keep in mind that people get confused about this all the time!
-	- Not a suit for damages!
 
 # Qualified Immunity
 - Courts tried using subjective intent as the standard for determining qualified immunity, but it didn't work out!
