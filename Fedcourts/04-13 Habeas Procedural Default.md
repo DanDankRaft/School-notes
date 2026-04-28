@@ -47,8 +47,6 @@
 - Drunk testimony was used to convict him!
 - Even though there was evidence that he was drunk, his attorney failed to question the admissibility of his testimony.
 
-
-
 - Florida had a "contemporaneous objection rule" - you must object to admission of evidence before trial.
 - Federal law - requires a hearing in a state criminal trial before the admission of this type of evidence
 ## Legal Q
