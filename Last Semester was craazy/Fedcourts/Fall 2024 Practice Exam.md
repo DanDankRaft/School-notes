@@ -22,7 +22,7 @@ Favorable: The evidence that Agey's testimony was coerced by ADA Fleener is abso
 
 Material: Agey was the key witness. Any evidence that would bring the legitimacy of Agey's testimony into question could probably be used to remove Agey's testimony from consideration by the jury. Gates or his counsel could not raise such an objection because they did not have the necessary evidenciary grounds to do so. Here, the respondent could argue that ???
 
-Prejudice: Second, the petitioner has to argue that there has to have been a "reaosnable probability" that the result of his trial would've been different but-for the constitutional violation that his *Brady* claim alleges (*Wainwright*, similar standard in *Strickland v. Washington*). Gates's argument here is straightforward - Agey was the key witness, this challenge would've removed his testimony from the evidenciary record. The DA could counter that they also had additional evidence: mainly, that Gates had no alibi. They could also counter that during Agey's conversation with the ADA, he never denied that Gates was present that day, or  that he was an accomplice.
+Prejudice: Second, the petitioner has to argue that there has to have been a "reaosnable probability" that the result of his trial would've been different but-for the constitutional violation that his *Brady* claim alleges (*Wainwright*, similar standard in *Strickland v. Washington*). Gates's argument here is straightforward - Agey was the key witness, this challenge would've removed his testimony from the evidenciary record. The DA could counter that they also had additional evidence: mainly, that Gates had no alibi. They could also counter that during Agey's conversation with the ADA, he never denied that Gates was present that day, or that he was an accomplice.
 
 To back this argument, Gates could cite the seventh circuit precedent which argues that evidence obtained through fraud or deception is "clearly a *Brady* violation." But it's usefulness here may be questionable, since it is not SCOTUS precedent? (NOTE: is that when we're not allowed to use SCOTUS precedent???) They could also contend that their evidence was not acquired through deception. Although they may have used a notice with a forged judge signature on it to get Agey to talk to them, they did not lie when they threatened to put him in jail "as a material witness." When a DA says "I will put you in jail," it is typically understood as "I will bring charges against you and try to get you in jail." It is not fraud or deception for a DA to make a threat like that, even if they know that deep down their case is weak.
 
@@ -38,13 +38,11 @@ Additionally, there's an argument that a *House*-style gateway claim is only ava
 ## Additional Defenses from the Respondent
 Under the AEDPA, when the state court is silent on their reasoning on a particular issue, we imagine what their reasoning would have been and defer to that (*Harrington, Johnson v. Williams*). Since the lower court did not consider the Brady claim, it was effectively silent on it. idk
 
-
 # 1983 Claim
 1. Standing
-2. Younger abstention?
-3. 1983:
+2. 1983:
 	1. Overcoming malicious prosecution
-4. Defenses:
+3. Defenses:
 	1. For city: policy and custom
 	2. For ADA Fleener: absolute? and qualified immunity
 		1. Absolute: prosecutorial v. investigative
@@ -101,7 +99,7 @@ A locality is only liable for 1983 claims if they arise from a "policy or custom
 
 High level order: 
 - Argument for: the DA sent the subpoena template which Fleener used. That's fleener's boss!
-- Arguments against: not clear if there's policymaking authority here (*contrast w.* Pembaur). No statute that we know of. But like, that's the DA. Not only is that his boss, these guys typically have recognized policymaking authorities over things like subpoena templates. ALSO, WE DONT KNOW IF  THAT TEMPLATE CONTAINED THE FORGED SIGNATURE.
+- Arguments against: not clear if there's policymaking authority here (*contrast w.* Pembaur). No statute that we know of. But like, that's the DA. Not only is that his boss, these guys typically have recognized policymaking authorities over things like subpoena templates. ALSO, WE DONT KNOW IF THAT TEMPLATE CONTAINED THE FORGED SIGNATURE.
 
 Failure to train: 
 * city must show "deliberate indifference" to this type of harm *City of Canton*.
@@ -110,8 +108,6 @@ Failure to train:
 	* one incident is not enough (*Oklahoma City v. Turtle*), especially with lawyers who mostly rely on outside training (*Connick*)
 		* We know of at least seven compelled testimonies statewide... from three different ADAs. It's entirely possible that this was the only time *our* ADA compelled a testimony.
 	* Extending *Connick* - is it really unreasonable that an ADA needs to be *trained* to know to not use subpoenas with forged signatures or 
-
-
 # Question 2
 1. Legislative standing? BRIEFLY
 2. Mootness issues
@@ -132,7 +128,14 @@ Constitutional issues:
 * McCardle - they can do this
 * McCardle - not if this doesn't leave any venue for the case to reach SCOTUS!
 * Klein:
-	* Cant tell Congress how to rule on a case (Klein)
+	* Cant tell Courts how to rule on a case. (Klein) Seeking to invalidate sounds like its issuing a rule of decision!
 	* Perfectly fine for Congress to strip jurisdiction over an ongoing case, and to even direct a statute at a specific case (Bank Merkazi)
 
 ## Mootness
+
+#### Both Apply, and we can use exactly the same arguments
+
+## Capable of Repetition
+- They could re-enact the statute (*Aladdin's Castle*)
+
+# Sovereign Immunity
